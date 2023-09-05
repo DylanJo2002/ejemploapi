@@ -16,5 +16,11 @@
         "edad": 21,
         "carrera": "Física",
         "semestre": 4
+    },
+    "20180605": {
+        "nombre" : "Laura Murillas - 201944153" , 
+        "semestre": 6 , 
+        "soltero":true , 
+        "gustos" : ['comer', 'bailar','deporte']
     }
 }
