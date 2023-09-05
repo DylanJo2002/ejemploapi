@@ -1,0 +1,7 @@
+{
+    "nombre": "Heidy Mina",
+    "edad": 21,
+    "carrera": "Ingeniería de sistemas",
+    "semestre": 6,
+    "gustos" : ["Música","Natación", "Baile", "Cine"]
+}
