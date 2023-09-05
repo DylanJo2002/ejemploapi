@@ -3,5 +3,5 @@
     "edad": 28,
     "carrera": "Ingeniería de sistemas",
     "semestre": 6,
-    "gustos" : ["Comer", "Anime", "Viajar", "Videojuegos"]
+    "gustos" : ["Comer", "Anime", "Viajar", "Videojuegos", "Dormir"]
 }
