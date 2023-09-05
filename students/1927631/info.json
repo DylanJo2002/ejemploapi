@@ -1,0 +1,7 @@
+{
+    "nombre": "Daniel Rodriguez",
+    "edad": 28,
+    "carrera": "Ingeniería de sistemas",
+    "semestre": 6,
+    "gustos" : ["Comer","Dormir", "Anime", "Viajar"]
+}
