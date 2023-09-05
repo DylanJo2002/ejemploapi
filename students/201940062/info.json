@@ -3,6 +3,5 @@
     "edad": 22,
     "carrera": "Ingeniería en Sistemas",
     "semestre": 6,
-    "gustos" : ["N/A"],
-    "descripsion": "No tengo mucha vida social, me encanta el deporte y aplicar ejercios o una que otra rutina en casa y sufrir de vez en cuando con el ayuno intermitente"
+    "gustos" : ["N/A"]
 }
