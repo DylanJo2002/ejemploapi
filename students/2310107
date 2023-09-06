@@ -1,0 +1,7 @@
+{
+    "nombre": "Nicolas Granada",
+    "edad": 23,
+    "carrera": "Ingeniería en Sistemas",
+    "semestre": 1,
+    "gustos" : ["Videojuegos","Musica","Viajar"]
+}
